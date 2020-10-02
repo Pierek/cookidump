@@ -4,3 +4,4 @@ test1
 chromedriver.exe
 bash.exe.stackdump
 debug.log
+test*/
